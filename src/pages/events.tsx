@@ -64,12 +64,12 @@ export default function Events() {
                     <div className="event-heading">
                       <h3>Event Heading</h3>
                       <p>
-                        Lorem Ipsum is simply dummy text of the printing and
+                        {`Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
                         industry's standard dummy text ever since the 1500s,
                         when an unknown printer took a galley of type and
                         scrambled it to make a type specimen book. It has
-                        survived not only five centuries
+                        survived not only five centuries`}
                       </p>
                     </div>
                     <div
@@ -107,21 +107,21 @@ export default function Events() {
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                It is a long established fact that a reader will
+                                {`It is a long established fact that a reader will
                                 be distracted by the readable content of a page
                                 when looking at its layout. The point of using
                                 Lorem Ipsum is that it has a more-or-less normal
                                 distribution of letters, as opposed to using
-                                'Content here.
+                                'Content here.`}
                               </p>
                             </div>
                           </div>
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                The point of using Lorem Ipsum is that it has a
+                                {`The point of using Lorem Ipsum is that it has a
                                 more-or-less normal distribution of letters, as
-                                opposed to using 'Content here, content here.
+                                opposed to using 'Content here, content here.`}
                               </p>
                             </div>
                           </div>
@@ -196,21 +196,21 @@ export default function Events() {
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                It is a long established fact that a reader will
+                                {`It is a long established fact that a reader will
                                 be distracted by the readable content of a page
                                 when looking at its layout. The point of using
                                 Lorem Ipsum is that it has a more-or-less normal
                                 distribution of letters, as opposed to using
-                                'Content here.
+                                'Content here.`}
                               </p>
                             </div>
                           </div>
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                The point of using Lorem Ipsum is that it has a
+                                {`The point of using Lorem Ipsum is that it has a
                                 more-or-less normal distribution of letters, as
-                                opposed to using 'Content here, content here.
+                                opposed to using 'Content here, content here.`}
                               </p>
                             </div>
                           </div>
@@ -246,11 +246,11 @@ export default function Events() {
                     <div className="event-heading">
                       <h3>Phasellus ornare risus id mauris aliquet</h3>
                       <p>
-                        Randomised words which don't look even slightly
+                        {` Randomised words which don't look even slightly
                         believable. If you are going to use a passage of Lorem
                         Ipsum, you need to be sure there isn't anything
                         embarrassing hidden in the middle of text. All the Lorem
-                        Ipsum generators...
+                        Ipsum generators...`}
                       </p>
                     </div>
                     <div id="collapse3" className="panel-collapse collapse in">
@@ -285,21 +285,21 @@ export default function Events() {
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                It is a long established fact that a reader will
+                                {`It is a long established fact that a reader will
                                 be distracted by the readable content of a page
                                 when looking at its layout. The point of using
                                 Lorem Ipsum is that it has a more-or-less normal
                                 distribution of letters, as opposed to using
-                                'Content here.
+                                'Content here.`}
                               </p>
                             </div>
                           </div>
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                The point of using Lorem Ipsum is that it has a
+                                {`The point of using Lorem Ipsum is that it has a
                                 more-or-less normal distribution of letters, as
-                                opposed to using 'Content here, content here.
+                                opposed to using 'Content here, content here.`}
                               </p>
                             </div>
                           </div>
@@ -335,10 +335,10 @@ export default function Events() {
                     <div className="event-heading">
                       <h3>This book is a treatise on the theory of ethics</h3>
                       <p>
-                        Search for 'lorem ipsum' will uncover many web sites
+                        {` Search for 'lorem ipsum' will uncover many web sites
                         still in their infancy. Various versions have evolved
                         over the years, sometimes by accident, sometimes on
-                        purpose (injected humour and the like).
+                        purpose (injected humour and the like).`}
                       </p>
                     </div>
                     <div id="collapse4" className="panel-collapse collapse in">
@@ -373,21 +373,21 @@ export default function Events() {
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                It is a long established fact that a reader will
+                                {`It is a long established fact that a reader will
                                 be distracted by the readable content of a page
                                 when looking at its layout. The point of using
                                 Lorem Ipsum is that it has a more-or-less normal
                                 distribution of letters, as opposed to using
-                                'Content here.
+                                'Content here.`}
                               </p>
                             </div>
                           </div>
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                The point of using Lorem Ipsum is that it has a
+                                {`The point of using Lorem Ipsum is that it has a
                                 more-or-less normal distribution of letters, as
-                                opposed to using 'Content here, content here.
+                                opposed to using 'Content here, content here.`}
                               </p>
                             </div>
                           </div>
@@ -471,21 +471,21 @@ export default function Events() {
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                It is a long established fact that a reader will
+                                {`It is a long established fact that a reader will
                                 be distracted by the readable content of a page
                                 when looking at its layout. The point of using
                                 Lorem Ipsum is that it has a more-or-less normal
                                 distribution of letters, as opposed to using
-                                'Content here.
+                                'Content here.`}
                               </p>
                             </div>
                           </div>
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                The point of using Lorem Ipsum is that it has a
+                                {`The point of using Lorem Ipsum is that it has a
                                 more-or-less normal distribution of letters, as
-                                opposed to using 'Content here, content here.
+                                opposed to using 'Content here, content here.`}
                               </p>
                             </div>
                           </div>
@@ -521,12 +521,12 @@ export default function Events() {
                     <div className="event-heading">
                       <h3>Event Heading</h3>
                       <p>
-                        Lorem Ipsum is simply dummy text of the printing and
+                        {`Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
                         industry's standard dummy text ever since the 1500s,
                         when an unknown printer took a galley of type and
                         scrambled it to make a type specimen book. It has
-                        survived not only five centuries
+                        survived not only five centuries`}
                       </p>
                     </div>
                     <div id="collapse6" className="panel-collapse collapse in">
@@ -561,21 +561,21 @@ export default function Events() {
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                It is a long established fact that a reader will
+                                {`It is a long established fact that a reader will
                                 be distracted by the readable content of a page
                                 when looking at its layout. The point of using
                                 Lorem Ipsum is that it has a more-or-less normal
                                 distribution of letters, as opposed to using
-                                'Content here.
+                                'Content here.`}
                               </p>
                             </div>
                           </div>
                           <div className="col-md-6">
                             <div className="event-highlight-discription">
                               <p>
-                                The point of using Lorem Ipsum is that it has a
+                                {`The point of using Lorem Ipsum is that it has a
                                 more-or-less normal distribution of letters, as
-                                opposed to using 'Content here, content here.
+                                opposed to using 'Content here, content here.`}
                               </p>
                             </div>
                           </div>

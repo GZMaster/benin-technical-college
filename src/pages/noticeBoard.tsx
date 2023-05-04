@@ -15,11 +15,11 @@ export default function NoticeBoard() {
             <div className="date-description">
               <h3>Timetable Mid of Semester Examination July 2018</h3>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
+                {`Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy
                 text ever since the 1500s, when an unknown printer took a galley
                 of type and scrambled it to make a type specimen book. It has
-                survived not only five centuries
+                survived not only five centuries`}
               </p>
               <hr className="event_line" />
             </div>
@@ -33,10 +33,11 @@ export default function NoticeBoard() {
               <h3>University Admissions 2018-19</h3>
               <p>
                 Lorem Ipsum is simply dummy text of the printing and
-                <a href="#">typesetting industry</a>. Lorem Ipsum has been the
+                <a href="#">typesetting industry</a>.{" "}
+                {`Lorem Ipsum has been the
                 industry's standard dummy text ever since the 1500s, when an
                 unknown printer took a galley of type and scrambled it to make a
-                type specimen book. It has survived not only five centuries
+                type specimen book. It has survived not only five centuries`}
               </p>
               <hr className="event_line" />
             </div>
@@ -49,11 +50,11 @@ export default function NoticeBoard() {
             <div className="date-description">
               <h3>Important Notice for all final Semester Students</h3>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
+                {`Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy
                 text ever since the 1500s, when an unknown printer took a galley
                 of type and scrambled it to make a type specimen book. It has
-                survived not only five centuries
+                survived not only five centuries`}
               </p>
             </div>
           </div>

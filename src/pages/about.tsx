@@ -9,11 +9,11 @@ export default function About() {
             <div className="col-md-7">
               <h2>What we are</h2>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
+                {`Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy
                 text ever since the 1500s, when an unknown printer took a galley
                 of type and scrambled it to make a type specimen book. It has
-                survived not only five centuries.
+                survived not only five centuries.`}
                 <br />
                 <br />
                 It has survived not only five centuries, but also the leap into
@@ -43,11 +43,11 @@ export default function About() {
                 <div className="quote">
                   <i className="fa fa-quote-left" aria-hidden="true"></i>
                   <p className="quote_text">
-                    Lorem Ipsum has been the industry's standard dummy text ever
+                    {`Lorem Ipsum has been the industry's standard dummy text ever
                     since the 1500s, when an unknown printer took a galley of
                     type and scrambled it to make a type specimen book. Printing
                     and typesetting industry. It has survived not only five
-                    centuries.
+                    centuries.`}
                   </p>
                   <div className="testi-img_block">
                     <img
@@ -63,10 +63,10 @@ export default function About() {
                 <div className="quote">
                   <i className="fa fa-quote-left" aria-hidden="true"></i>
                   <p className="quote_text">
-                    Lorem Ipsum has been the industry's standard dummy text ever
+                    {`Lorem Ipsum has been the industry's standard dummy text ever
                     since the 1500s, when an unknown printer took a galley of
                     type and scrambled it to make a type specimen book. Printing
-                    and typesetting industry.
+                    and typesetting industry.`}
                   </p>
                   <div className="testi-img_block">
                     <img
