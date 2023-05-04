@@ -1,7 +1,7 @@
 {
 	"name": "benin-technical-college",
 	"version": "0.1.0",
-	"private": true,
+	"private": false,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
@@ -41,14 +41,19 @@
 			"last 1 safari version"
 		]
 	},
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.55.0",
-    "@typescript-eslint/parser": "^5.55.0",
-    "eslint": "^8.36.0",
-    "eslint-config-prettier": "^8.7.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-react": "^7.32.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "prettier": "^2.8.4"
-  }
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.55.0",
+		"@typescript-eslint/parser": "^5.55.0",
+		"eslint": "^8.36.0",
+		"eslint-config-prettier": "^8.7.0",
+		"eslint-plugin-prettier": "^4.2.1",
+		"eslint-plugin-react": "^7.32.2",
+		"eslint-plugin-react-hooks": "^4.6.0",
+		"prettier": "^2.8.4"
+	},
+	"description": "a school website for benin technical college",
+	"main": "index.js",
+	"repository": "https://github.com/GZMaster/benin-technical-college.git",
+	"author": "GZMaster <33158650+GZMaster@users.noreply.github.com>",
+	"license": "MIT"
 }
