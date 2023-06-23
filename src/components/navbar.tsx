@@ -23,17 +23,17 @@ export default function Navbar() {
                   11001
                 </div>
               </div>
-              <div className="header-top_login2">
+              {/* <div className="header-top_login2">
                 <Link to="/login">Login </Link>/
                 <Link to="/sign-in"> Sign Up </Link>
-              </div>
+              </div> */}
             </div>
-            <div className="col-xs-6 col-sm-4 col-md-3">
+            {/* <div className="col-xs-6 col-sm-4 col-md-3">
               <div className="header-top_login mr-sm-3">
                 <Link to="/login">Login </Link>/
                 <Link to="/sign-up"> Sign Up </Link>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
@@ -52,7 +52,7 @@ export default function Navbar() {
                 </button>
                 <Link to="/" className="navbar-brand nav-brand2">
                   <h2>
-                    <b>UNISCO</b>
+                    <b>BENIN TECHNICAL COLLEGE</b>
                   </h2>
                 </Link>
                 <div

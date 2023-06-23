@@ -25,14 +25,11 @@ export default function Home() {
                 />
                 <div className="carousel-caption d-md-block">
                   <div className="slider_title">
-                    <h1>Creative Thinking &amp; Innovation</h1>
+                    <h1>Building futures, Nurturing skills</h1>
                     <h4>
-                      Proactively utilize open-source users for process-centric
-                      total linkage.
-                      <br />
-                      Energistically reinvent web-enabled initiatives with
-                      premium <br />
-                      processes. Proactively drive.
+                      Our mission is to train and develop proficient and capable
+                      individuals to <br /> become skilled craftsmen ready to
+                      meet the demands of the industry.
                     </h4>
                     <div className="slider-btn">
                       <a href="#" className="btn btn-default">
@@ -53,14 +50,11 @@ export default function Home() {
                 />
                 <div className="carousel-caption d-md-block">
                   <div className="slider_title">
-                    <h1>We foster wisdom</h1>
+                    <h1>Knowledge and Empowerment</h1>
                     <h4>
-                      Proactively utilize open-source users for process-centric
-                      total linkage.
-                      <br />
-                      Energistically reinvent web-enabled initiatives with
-                      premium <br />
-                      processes. Proactively drive.
+                      Our goal is to empower students with the knowledge and
+                      technical know-how for <br /> higher academic and
+                      technical pursuits in tertiary institutions.
                     </h4>
                     <div className="slider-btn">
                       <a href="#" className="btn btn-default">
@@ -81,14 +75,10 @@ export default function Home() {
                 />
                 <div className="carousel-caption d-md-block">
                   <div className="slider_title">
-                    <h1>Campus life @ Unisco</h1>
+                    <h1>Skill Advancement</h1>
                     <h4>
-                      Proactively utilize open-source users for process-centric
-                      total linkage.
-                      <br />
-                      Energistically reinvent web-enabled initiatives with
-                      premium <br />
-                      processes. Proactively drive.
+                      Creating opportunities for employed individuals to enhance
+                      their technical skills and advance in their careers.
                     </h4>
                     <div className="slider-btn">
                       <a href="campus-life.html" className="btn btn-default">
@@ -127,17 +117,8 @@ export default function Home() {
             <div className="col-md-8">
               <h2>Welcome</h2>
               <p>
-                {`Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book. It has
-                survived not only five centuries`}
+                {`At Benin Technical College, we believe in nurturing a passion for learning, empowering our students to reach their full potential, and preparing them for success in an ever-changing world. Our devoted and knowledgeable faculty create an environment that is dynamic and captivating, enabling students to flourish intellectually, socially, and personally. `}
               </p>
-              <img
-                src="images/welcom_sign.png"
-                className="img-fluid"
-                alt="welcom-img"
-              />
             </div>
             <div className="col-md-4">
               <img
@@ -431,7 +412,7 @@ export default function Home() {
               </div>
               <div className="chart-text">
                 <p>
-                  <span className="counter">39</span> Teachers
+                  <span className="counter">80</span> staff
                 </p>
               </div>
             </div>
@@ -445,7 +426,7 @@ export default function Home() {
               </div>
               <div className="chart-text">
                 <p>
-                  <span className="counter">2600</span> Students
+                  <span className="counter">1381</span> Students
                 </p>
               </div>
             </div>
@@ -459,7 +440,7 @@ export default function Home() {
               </div>
               <div className="chart-text">
                 <p>
-                  <span className="counter">56</span> Courses
+                  <span className="counter">8</span> Departments
                 </p>
               </div>
             </div>
@@ -473,7 +454,7 @@ export default function Home() {
               </div>
               <div className="chart-text">
                 <p>
-                  <span className="counter">13</span> Years Exp.
+                  <span className="counter">49</span> Years Exp.
                 </p>
               </div>
             </div>

@@ -9,17 +9,16 @@ export default function About() {
             <div className="col-md-7">
               <h2>What we are</h2>
               <p>
-                {`Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book. It has
-                survived not only five centuries.`}
+                {`The Benin Technical College is a prestigious institution established in 1973 through a collaboration between the mid-western state government of Nigeria and the Canadian government; opening it’s doors to it’s first set of students in September 1974. The institution has its focus on vocational education and offers a comprehensive three-year program across a diverse range of departments.`}
                 <br />
                 <br />
-                It has survived not only five centuries, but also the leap into
-                electronic typesetting, remaining essentially unchanged. It was
-                popularised in the 1960s with the release of Letraset sheets
-                containing Lorem Ipsum passages.
+                Our primary objectives revolve around preparing individuals for
+                successful careers in the dynamic industries of today. We equip
+                our students with practical skills, knowledge, and expertise
+                that are in high demand in the workforce. With a focus on
+                hands-on training and experiential learning, we ensure that our
+                graduates are well-prepared to meet the challenges of their
+                chosen professions.
               </p>
               <a href="#" className="btn btn-default btn-about">
                 VIEW OUR COURSE
@@ -32,7 +31,7 @@ export default function About() {
         </div>
       </section>
 
-      <section className="testimonial">
+      {/* <section className="testimonial">
         <div className="container">
           <div className="row">
             <div className="col-md-12">
@@ -83,7 +82,7 @@ export default function About() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       <div className="detailed_chart">
         <div className="container">

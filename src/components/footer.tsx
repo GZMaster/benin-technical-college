@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer>
       <div className="container">
-        <div className="row">
+        {/* <div className="row">
           <div className="col-md-12">
             <div className="subscribe">
               <h3>Newsletter</h3>
@@ -35,13 +35,13 @@ export default function Footer() {
               </form>
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="row">
           <div className="col-md-3">
             <div className="foot-logo">
               <Link to="/">
                 <img
-                  src="images/footer-logo.png"
+                  src="images/BTC.png"
                   className="img-fluid"
                   alt="footer_logo"
                 />
@@ -66,21 +66,22 @@ export default function Footer() {
               </ul>
             </div>
           </div>
-          <div className="col-md-4">
+          {/* <div className="col-md-4">
             <div className="tweet_box">
               <h3>Tweets</h3>
               <div className="tweet-wrap">
                 <div className="tweet"></div>
               </div>
             </div>
-          </div>
+          </div> */}
           <div className="col-md-3">
             <div className="address">
               <h3>Contact us</h3>
               <p>
-                <span>Address: </span> Unisco university Albany, NY, USA. 11001
+                <span>Address: </span> Benin Technical College, Benin City, Edo
+                P.M.B 1178
               </p>
-              <p>
+              {/* <p>
                 Email :{" "}
                 <a
                   href="https://demo.web3canvas.com/cdn-cgi/l/email-protection"
@@ -107,7 +108,7 @@ export default function Footer() {
                     <i className="fa fa-twitter fa-tw" aria-hidden="true"></i>
                   </a>
                 </li>
-              </ul>
+              </ul> */}
             </div>
           </div>
         </div>
