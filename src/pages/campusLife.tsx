@@ -43,13 +43,16 @@ export default function CampusLife() {
                 alt="campus-img"
               />
               <div className="campus-title-block">
-                <h4>Physical</h4>
+                <h4>Radio and television</h4>
               </div>
             </div>
             <div className="campus-img_text">
               <p>
-                Seamlessly embrace unique methodologies after front-end
-                benefits. Credibly drive value-added methods of empowerment
+                In our Radio and Television Department, students delve into the
+                exciting world of broadcasting. Through practical training, they
+                learn the ins and outs of radio and television production,
+                including scriptwriting, equipment operation, and editing,
+                preparing them for dynamic careers in media.
               </p>
             </div>
           </div>
@@ -79,13 +82,15 @@ export default function CampusLife() {
                 alt="campus-img"
               />
               <div className="campus-title-block">
-                <h4>Health & Wellness</h4>
+                <h4>Mechanical engineering craft practice department</h4>
               </div>
             </div>
             <div className="campus-img_text">
               <p>
-                Credibly drive value-added methods of empowerment without highly
-                efficient.Continually strategize extensive channels
+                The Mechanical Engineering Craft Practice Department provides a
+                solid foundation in mechanical engineering principles and
+                practical skills, preparing students for diverse roles in
+                industries such as manufacturing, automotive, and more.
               </p>
             </div>
           </div>
@@ -97,13 +102,15 @@ export default function CampusLife() {
                 alt="campus-img"
               />
               <div className="campus-title-block">
-                <h4>Students IT service</h4>
+                <h4>Fabrication and welding department</h4>
               </div>
             </div>
             <div className="campus-img_text">
               <p>
-                Continually strategize extensive channels vis-a-vis transparent
-                e-services. Seamlessly embrace unique methodologies
+                In the Fabrication and Welding Department, students develop
+                expertise in metal fabrication and welding technique, gaining
+                the necessary skills for careers in industries such as
+                construction, manufacturing, and shipbuilding.
               </p>
             </div>
           </div>
@@ -115,13 +122,12 @@ export default function CampusLife() {
                 alt="campus-img"
               />
               <div className="campus-title-block">
-                <h4>Food</h4>
+                <h4>Carpentry and joinery department</h4>
               </div>
             </div>
             <div className="campus-img_text">
               <p>
-                Seamlessly embrace unique methodologies after front-end
-                benefits. Credibly drive value-added methods of empowerment
+                {`In our Carpentry and Joinery Department focuses on honing students' woodworking skills. Through hands-on training, students learn to craft and assemble structures, furniture, and architectural elements, preparing them for rewarding careers in construction and woodworking industries.`}
               </p>
             </div>
           </div>
@@ -133,13 +139,16 @@ export default function CampusLife() {
                 alt="campus-img"
               />
               <div className="campus-title-block">
-                <h4>Students Club</h4>
+                <h4>Block laying and concrete departments</h4>
               </div>
             </div>
             <div className="campus-img_text">
               <p>
-                Continually strategize extensive channels vis-a-vis transparent
-                e-services. Credibly drive value-added methods
+                The Block Laying and Concrete Departments train students in the
+                art of masonry and concrete construction. Through practical
+                instruction, students learn techniques for building structures
+                using blocks, bricks, and concrete, equipping them with skills
+                for the construction industry.
               </p>
             </div>
           </div>
@@ -151,13 +160,38 @@ export default function CampusLife() {
                 alt="campus-img"
               />
               <div className="campus-title-block">
-                <h4>Charity Club</h4>
+                <h4>Architectural drafting department</h4>
               </div>
             </div>
             <div className="campus-img_text">
               <p>
-                Continually strategize extensive channels vis-a-vis transparent
-                e-services. Seamlessly embrace unique methodologies
+                In the Architectural Drafting Department, students are taught
+                the art of architectural design and drafting. Through both
+                manual and computer-aided drafting techniques, students develop
+                the skills to create accurate technical drawings and plans for
+                architectural projects, preparing them for careers in
+                architecture and related fields.
+              </p>
+            </div>
+          </div>
+          <div className="col-xs-12 col-md-6 col-lg-4">
+            <div className="campus-img_block">
+              <img
+                src="images/campus/campus-img_08.jpg"
+                className="img-fluid"
+                alt="campus-img"
+              />
+              <div className="campus-title-block">
+                <h4>Catering Department (Hotel and Catering Management)</h4>
+              </div>
+            </div>
+            <div className="campus-img_text">
+              <p>
+                Our Catering Department focuses on culinary arts and hotel
+                management. Students gain hands-on experience in cooking
+                techniques, menu planning, and food safety, while also
+                developing essential management skills. Graduates are prepared
+                for diverse roles in the vibrant hospitality industry.
               </p>
             </div>
           </div>
