@@ -85,13 +85,13 @@ export default function ContactPage() {
                       <i className="fa fa-user" aria-hidden="true"></i>
                       <h6>Address</h6>
                       <p>
-                        Unisco university <br />
-                        Albany, NY <br />
-                        USA. 11001
+                        Benin Technical College, <br />
+                        Benin City, Edo <br />
+                        P.M.B 1178
                       </p>
                     </div>
                     <br />
-                    <div className="contact-details">
+                    {/* <div className="contact-details">
                       <i className="fa fa-envelope-o" aria-hidden="true"></i>
                       <h6>Email</h6>
                       <p>
@@ -111,13 +111,13 @@ export default function ContactPage() {
                           [email&#160;protected]
                         </a>
                       </p>
-                    </div>
+                    </div> */}
                     <br />
-                    <div className="contact-details">
+                    {/* <div className="contact-details">
                       <i className="fa fa-phone" aria-hidden="true"></i>
                       <h6>phone</h6>
                       <p>+91 555 668 986</p>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
