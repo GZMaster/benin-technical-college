@@ -20,7 +20,7 @@ export default function About() {
                 graduates are well-prepared to meet the challenges of their
                 chosen professions.
               </p>
-              <a href="#" className="btn btn-default btn-about">
+              <a href="/campus-life" className="btn btn-default btn-about">
                 VIEW OUR COURSE
               </a>
             </div>

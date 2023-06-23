@@ -167,8 +167,8 @@ export default function Home() {
                   />
                 </div>
                 <a href="course-detail.html" className="course-box-content">
-                  <h3>Biochemistry</h3>
-                  <p>When an unknown printer took a galley...</p>
+                  <h3>Electrical installation</h3>
+                  <p>Our Electrical Installation Department offers ...</p>
                 </a>
               </div>
             </div>
@@ -200,8 +200,8 @@ export default function Home() {
                   />
                 </div>
                 <a href="course-detail.html" className="course-box-content">
-                  <h3>History</h3>
-                  <p>When an unknown printer took a galley...</p>
+                  <h3>Radio and television</h3>
+                  <p>n our Radio and Television Department, students...</p>
                 </a>
               </div>
             </div>
@@ -233,8 +233,8 @@ export default function Home() {
                   />
                 </div>
                 <a href="course-detail.html" className="course-box-content">
-                  <h3>Human Sciences</h3>
-                  <p>When an unknown printer took a galley...</p>
+                  <h3>Mechanical engineering craft practice department</h3>
+                  <p>The Mechanical Engineering Craft Practice...</p>
                 </a>
               </div>
             </div>
@@ -266,8 +266,8 @@ export default function Home() {
                   />
                 </div>
                 <a href="course-detail.html" className="course-box-content">
-                  <h3>Earth Sciences</h3>
-                  <p>When an unknown printer took a galley...</p>
+                  <h3>Fabrication and welding department</h3>
+                  <p>In the Fabrication and Welding Department...</p>
                 </a>
               </div>
             </div>
@@ -275,7 +275,7 @@ export default function Home() {
           <br />
           <div className="row">
             <div className="col-md-12 text-center">
-              <a href="#" className="btn btn-default btn-courses">
+              <a href="/campus-life" className="btn btn-default btn-courses">
                 View all courses
               </a>
             </div>

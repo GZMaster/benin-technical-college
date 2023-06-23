@@ -9,7 +9,7 @@ export default function Navbar() {
           <div className="row">
             <div className="col-xs-6 col-sm-8 col-md-9">
               <div className="header-top_address">
-                <div className="header-top_list">
+                {/* <div className="header-top_list">
                   <span className="icon-phone"></span>00 55 22 66
                 </div>
                 <div className="header-top_list">
@@ -17,10 +17,10 @@ export default function Navbar() {
                   <a href="#" className="__cf_email__">
                     [email&#160;protected]
                   </a>
-                </div>
+                </div> */}
                 <div className="header-top_list">
-                  <span className="icon-location-pin"></span>Albany, NY, USA.
-                  11001
+                  <span className="icon-location-pin"></span>Benin Technical
+                  College, Benin City, Edo P.M.B 1178
                 </div>
               </div>
               {/* <div className="header-top_login2">
