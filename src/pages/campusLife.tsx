@@ -6,7 +6,7 @@ export default function CampusLife() {
       <div className="container">
         <div className="row">
           <div className="col-md-12">
-            <h2>Campus</h2>
+            <h2>DEPARTMENTS</h2>
             <p>
               {`Lorem Ipsum is simply dummy text of the printing and
                   typesetting industry. Lorem Ipsum has been the industry's
@@ -24,13 +24,14 @@ export default function CampusLife() {
                 alt="campus-img"
               />
               <div className="campus-title-block">
-                <h4>Arts and Culture</h4>
+                <h4>Electrical installation</h4>
               </div>
             </div>
             <div className="campus-img_text">
               <p>
-                Continually strategize extensive channels vis-a-vis transparent
-                e-services. Seamlessly embrace unique methodologies
+                Our Electrical Installation Department offers comprehensive
+                training in electrical systems, equipping students with the
+                skills to handle wiring, circuitry, and maintenance.
               </p>
             </div>
           </div>
