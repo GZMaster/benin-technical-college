@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import sliderImg1 from "../assets/images/last_shoot/_DSC0188.jpg";
 
 export default function Home() {
   return (
@@ -19,7 +18,11 @@ export default function Home() {
             </ol>
             <div className="carousel-inner" role="listbox">
               <div className="carousel-item active">
-                <img className="d-block" src={sliderImg1} alt="First slide" />
+                <img
+                  className="d-block"
+                  src="images\btc_img_shoot\_DSC0188-min.jpg"
+                  alt="First slide"
+                />
                 <div className="carousel-caption d-md-block">
                   <div className="slider_title">
                     <h1>Building futures, Nurturing skills</h1>
