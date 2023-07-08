@@ -20,7 +20,7 @@ export default function Home() {
               <div className="carousel-item active">
                 <img
                   className="d-block"
-                  src="images/slider.jpg"
+                  src="images\btc_img_shoot\_DSC0188-min.jpg"
                   alt="First slide"
                 />
                 <div className="carousel-caption d-md-block">
@@ -45,7 +45,7 @@ export default function Home() {
               <div className="carousel-item">
                 <img
                   className="d-block"
-                  src="images/slider-2.jpg"
+                  src="images\btc_img_shoot\_DSC0192-min.jpg"
                   alt="Second slide"
                 />
                 <div className="carousel-caption d-md-block">
@@ -70,7 +70,7 @@ export default function Home() {
               <div className="carousel-item">
                 <img
                   className="d-block"
-                  src="images/slider-3.jpg"
+                  src="images\btc_img_shoot\_DSC0211-min.jpg"
                   alt="Third slide"
                 />
                 <div className="carousel-caption d-md-block">
@@ -122,7 +122,7 @@ export default function Home() {
             </div>
             <div className="col-md-4">
               <img
-                src="images/campus/campus-img_05.jpg"
+                src="images\btc_img_shoot\_DSC0218-min.jpg"
                 className="img-fluid about-img"
                 alt="#"
               />
@@ -143,7 +143,7 @@ export default function Home() {
               <div className="courses_box mb-4">
                 <div className="course-img-wrap">
                   <img
-                    src="images/courses_1.jpg"
+                    src="\images\btc_img_shoot\DSC0745-min.jpg"
                     className="img-fluid"
                     alt="courses-img"
                   />
@@ -176,7 +176,7 @@ export default function Home() {
               <div className="courses_box mb-4">
                 <div className="course-img-wrap">
                   <img
-                    src="images/courses_2.jpg"
+                    src="\images\btc_img_shoot\DSC0753-min.jpg"
                     className="img-fluid"
                     alt="courses-img"
                   />
@@ -209,7 +209,7 @@ export default function Home() {
               <div className="courses_box mb-4">
                 <div className="course-img-wrap">
                   <img
-                    src="images/courses_3.jpg"
+                    src="\images\btc_img_shoot\DSC0695-min.jpg"
                     className="img-fluid"
                     alt="courses-img"
                   />
@@ -242,7 +242,7 @@ export default function Home() {
               <div className="courses_box mb-4">
                 <div className="course-img-wrap">
                   <img
-                    src="images/courses_4.jpg"
+                    src="images\btc_img_shoot\DSC0651-min.jpg"
                     className="img-fluid"
                     alt="courses-img"
                   />
