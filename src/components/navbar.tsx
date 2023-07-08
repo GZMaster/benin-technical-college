@@ -183,11 +183,11 @@ export default function Navbar() {
                         <span className="glyphicon glyphicon-chevron-down pull-right"></span>
                       </a>
                       <ul className="dropdown-menu">
-                        <li>
+                        {/* <li>
                           <Link className="dropdown-item" to="/blog">
                             Blog
                           </Link>
-                        </li>
+                        </li> */}
                         <li>
                           <Link className="dropdown-item" to="/events">
                             Events
@@ -195,7 +195,7 @@ export default function Navbar() {
                         </li>
                         <li>
                           <Link className="dropdown-item" to="/campus-life">
-                            Campus Life
+                            Departments
                           </Link>
                         </li>
                         <li>

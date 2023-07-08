@@ -8,10 +8,7 @@ export default function CampusLife() {
           <div className="col-md-12">
             <h2>DEPARTMENTS</h2>
             <p>
-              {`Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry's
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type`}
+              {`a focus on hands-on training and experiential learning, we ensure that our graduates are well-prepared to meet the challenges of their chosen professions.`}
             </p>
           </div>
         </div>

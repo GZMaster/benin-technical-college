@@ -25,7 +25,11 @@ export default function About() {
               </a>
             </div>
             <div className="col-md-5">
-              <img src="images/welcome-img.jpg" className="img-fluid" alt="#" />
+              <img
+                src="images\btc_img_shoot\_DSC0216-min.jpg"
+                className="img-fluid"
+                alt="#"
+              />
             </div>
           </div>
         </div>
@@ -97,7 +101,7 @@ export default function About() {
               </div>
               <div className="chart-text">
                 <p>
-                  <span className="counter">39</span> Teachers
+                  <span className="counter">80</span> staff
                 </p>
               </div>
             </div>
@@ -111,7 +115,7 @@ export default function About() {
               </div>
               <div className="chart-text">
                 <p>
-                  <span className="counter">2600</span> Students
+                  <span className="counter">1381</span> Students
                 </p>
               </div>
             </div>
@@ -125,7 +129,7 @@ export default function About() {
               </div>
               <div className="chart-text">
                 <p>
-                  <span className="counter">56</span> Courses
+                  <span className="counter">8</span> Departments
                 </p>
               </div>
             </div>
@@ -139,7 +143,7 @@ export default function About() {
               </div>
               <div className="chart-text">
                 <p>
-                  <span className="counter">13</span> Years Exp.
+                  <span className="counter">49</span> Years Exp.
                 </p>
               </div>
             </div>
@@ -151,27 +155,26 @@ export default function About() {
         <div className="container">
           <div className="row">
             <div className="col-md-12">
-              <h2>Our Teachers</h2>
+              <h2>Our Head Master & Assistants</h2>
             </div>
           </div>
           <div className="row">
             <div className="col-xs-12 col-sm-6 col-md-6">
               <div className="our-teachers-block">
                 <img
-                  src="images/our-teachers_01.jpg"
+                  src="images\btc_img_shoot\DSC0634-min.jpg"
                   className="img-fluid teachers-img"
                   alt="#"
                 />
                 <div className="teachers-description">
                   <p>
-                    <strong>Melissa Baker</strong> <br />
-                    MBA, PhD
+                    <strong>Mr elder Izedonmwen Friday</strong> <br />
                   </p>
                   <hr />
                   <p>
-                    Syllabus : <span>Economics, Marketing &amp; Finance</span>
+                    Role : <span>Head master</span>
                   </p>
-                  <div className="social-icons">
+                  {/* <div className="social-icons">
                     <ul>
                       <li>
                         <a href="#">
@@ -189,28 +192,26 @@ export default function About() {
                         </a>
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
             <div className="col-xs-12 col-sm-6 col-md-6">
               <div className="our-teachers-block">
                 <img
-                  src="images/our-teachers_02.jpg"
+                  src="images\btc_img_shoot\DSC0643(1)-min.jpg"
                   className="img-fluid teachers-img"
                   alt="#"
                 />
                 <div className="teachers-description">
                   <p>
-                    <strong>Raymond Salazar</strong> <br />
-                    MCA, PhD
+                    <strong>Mrs Enabulale JO</strong> <br />
                   </p>
                   <hr />
                   <p>
-                    Syllabus :
-                    <span>Computer Science, Astronomy &amp; Robotics</span>
+                    Role :<span>Vise Academics</span>
                   </p>
-                  <div className="social-icons">
+                  {/* <div className="social-icons">
                     <ul>
                       <li>
                         <a href="#">
@@ -228,27 +229,26 @@ export default function About() {
                         </a>
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
             <div className="col-xs-12 col-sm-6 col-md-6">
               <div className="our-teachers-block">
                 <img
-                  src="images/our-teachers_03.jpg"
+                  src="images\btc_img_shoot\DSC0667-min.jpg"
                   className="img-fluid teachers-img"
                   alt="#"
                 />
                 <div className="teachers-description">
                   <p>
-                    <strong>Alexander Bennett</strong> <br />
-                    PhD, Medical Sciences
+                    <strong>Mrs Odiase JI</strong> <br />
                   </p>
                   <hr />
                   <p>
-                    Syllabus : <span>Physics, Chemistry &amp; Biology</span>
+                    Role : <span>VP Partnership</span>
                   </p>
-                  <div className="social-icons">
+                  {/* <div className="social-icons">
                     <ul>
                       <li>
                         <a href="#">
@@ -266,11 +266,11 @@ export default function About() {
                         </a>
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
-            <div className="col-xs-12 col-sm-6 col-md-6">
+            {/* <div className="col-xs-12 col-sm-6 col-md-6">
               <div className="our-teachers-block">
                 <img
                   src="images/our-teachers_04.jpg"
@@ -307,7 +307,7 @@ export default function About() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
