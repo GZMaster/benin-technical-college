@@ -159,6 +159,10 @@
   }
   .nav-brand2 {
     display: block;
+    padding-top: 6px;
+  }
+  .nav-brand2 h2 {
+    font-size: 20px;
   }
   .navbar2 {
     margin: 12px 0 !important;
@@ -228,9 +232,6 @@ html {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
 }
-body {
-  font-family: lora, serif;
-}
 h1 {
   font-size: 54px;
 }
@@ -257,7 +258,7 @@ a:hover {
   color: #2d2d2d;
 }
 .btn {
-  font-family: lora, serif;
+  /* font-family: lora, serif; */
   cursor: pointer;
 }
 .slider_img {
@@ -270,10 +271,13 @@ a:hover {
   object-fit: cover;
   -o-object-position: 50% 50%;
   object-position: 50% 50%;
+  height: 500px;
+  filter: brightness(0.5);
 }
 @media (max-width: 500px) {
   .slider_img img {
     max-height: 730px;
+    height: 600px;
   }
 }
 .carousel-caption {
@@ -293,12 +297,12 @@ a:hover {
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    top: 50%;
+    top: 40%;
   }
 }
 @media (max-width: 500px) {
   .carousel-caption {
-    top: 45%;
+    top: 40%;
   }
 }
 .slider_title h1 {
@@ -1079,7 +1083,7 @@ a:hover {
 }
 footer {
   background: #2d2d2d;
-  padding: 60px 0 100px;
+  /* padding: 20px 0 100px; */
 }
 .subscribe {
   border-bottom: 1px solid #3f3f3f;
@@ -1116,7 +1120,7 @@ footer {
   }
 }
 .signup_form {
-  font-family: lora, serif;
+  /* font-family: lora, serif; */
   background: #3f3f3f;
   font-size: 17px;
   border: none;
@@ -1169,14 +1173,15 @@ footer {
   border: none;
   background: #bfa97f;
 }
-.foot-logo {
+/* .foot-logo {
   padding: 60px 0 34px;
-}
+} */
 .foot-logo p {
   color: #c4c4c4;
   font-weight: 100;
   padding: 24px 0 0;
   font-size: 17px;
+  text-align: center;
 }
 .tweet {
   color: #c4c4c4;
@@ -3820,9 +3825,9 @@ div.panel p {
   margin-right: 22px;
 }
 @media (max-width: 768px) {
-  .header-top_address .header-top_list:last-child {
+  /* .header-top_address .header-top_list:last-child {
     display: none;
-  }
+  } */
 }
 @media (max-width: 480px) {
   .header-top_address .header-top_list:nth-child(2) {
