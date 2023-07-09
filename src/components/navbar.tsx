@@ -65,7 +65,10 @@ export default function Navbar() {
                         About<span className="sr-only">(current)</span>
                       </Link>
                     </li>
-                    <li className="js-navbar-collapse">
+                    <li
+                      className="js-navbar-collapse"
+                      style={{ display: "none" }}
+                    >
                       <ul className="nav navbar-nav">
                         <li className="dropdown mega-dropdown">
                           <ul className="dropdown-menu mega-dropdown-menu row">
@@ -179,7 +182,7 @@ export default function Navbar() {
                         data-toggle="dropdown"
                         href="#"
                       >
-                        Pages
+                        Extra
                         <span className="glyphicon glyphicon-chevron-down pull-right"></span>
                       </a>
                       <ul className="dropdown-menu">
