@@ -298,7 +298,7 @@ export default function Home() {
                     />
                   </div>
                   <div className="col-sm-9">
-                    <h3>Grace and Academic Life </h3>
+                    <h3>Inter House sports day</h3>
                     <span>06-Nov-17</span>
                     <p>
                       Lorem Ipsum is simply dummy text of the printing and
@@ -462,7 +462,7 @@ export default function Home() {
         </div>
       </div>
 
-      <section className="blog">
+      {/* <section className="blog">
         <div className="container">
           <div className="row">
             <div className="col-md-12">
@@ -565,7 +565,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </>
   );
 }
