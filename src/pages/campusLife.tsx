@@ -16,7 +16,7 @@ export default function CampusLife() {
           <div className="col-xs-12 col-md-6 col-lg-4">
             <div className="campus-img_block">
               <img
-                src="images/campus/campus-img_01.jpg"
+                src="images/btc_img_shoot/DSC0753-min.jpg"
                 className="img-fluid"
                 alt="campus-img"
               />
@@ -35,7 +35,7 @@ export default function CampusLife() {
           <div className="col-xs-12 col-md-6 col-lg-4">
             <div className="campus-img_block">
               <img
-                src="images/campus/campus-img_02.jpg"
+                src="images/btc_img_shoot/DSC0722-min.jpg"
                 className="img-fluid"
                 alt="campus-img"
               />
@@ -56,7 +56,7 @@ export default function CampusLife() {
           <div className="col-xs-12 col-md-6 col-lg-4">
             <div className="campus-img_block">
               <img
-                src="images/campus/campus-img_03.jpg"
+                src="images/btc_img_shoot/DSC0714-min.jpg"
                 className="img-fluid"
                 alt="campus-img"
               />
@@ -74,7 +74,7 @@ export default function CampusLife() {
           <div className="col-xs-12 col-md-6 col-lg-4">
             <div className="campus-img_block">
               <img
-                src="images/campus/campus-img_04.jpg"
+                src="images/btc_img_shoot/DSC0701-min.jpg"
                 className="img-fluid"
                 alt="campus-img"
               />
@@ -94,7 +94,7 @@ export default function CampusLife() {
           <div className="col-xs-12 col-md-6 col-lg-4">
             <div className="campus-img_block">
               <img
-                src="images/campus/campus-img_05.jpg"
+                src="images/btc_img_shoot/_DSC0234-min.jpg"
                 className="img-fluid"
                 alt="campus-img"
               />
@@ -114,7 +114,7 @@ export default function CampusLife() {
           <div className="col-xs-12 col-md-6 col-lg-4">
             <div className="campus-img_block">
               <img
-                src="images/campus/campus-img_06.jpg"
+                src="images/btc_img_shoot/DSC0741-min.jpg"
                 className="img-fluid"
                 alt="campus-img"
               />
@@ -131,7 +131,7 @@ export default function CampusLife() {
           <div className="col-xs-12 col-md-6 col-lg-4">
             <div className="campus-img_block">
               <img
-                src="images/campus/campus-img_07.jpg"
+                src="images/btc_img_shoot/_DSC0211-min.jpg"
                 className="img-fluid"
                 alt="campus-img"
               />
@@ -152,7 +152,7 @@ export default function CampusLife() {
           <div className="col-xs-12 col-md-6 col-lg-4">
             <div className="campus-img_block">
               <img
-                src="images/campus/campus-img_08.jpg"
+                src="images/btc_img_shoot/DSC0680-min.jpg"
                 className="img-fluid"
                 alt="campus-img"
               />
@@ -174,7 +174,7 @@ export default function CampusLife() {
           <div className="col-xs-12 col-md-6 col-lg-4">
             <div className="campus-img_block">
               <img
-                src="images/campus/campus-img_08.jpg"
+                src="images/btc_img_shoot/DSC0704-min.jpg"
                 className="img-fluid"
                 alt="campus-img"
               />
