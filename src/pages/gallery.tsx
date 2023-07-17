@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 export default function Gallery() {
   return (
@@ -11,10 +11,13 @@ export default function Gallery() {
         </div>
         <div className="row">
           <div className="col-md-4">
-            <a href="images/gallery/large_1.jpg" className="grid image-link">
+            <a
+              href="images/btc_img_shoot/large_1.jpg"
+              className="grid image-link"
+            >
               <figure className="effect-bubba gallery-img-wrap">
                 <img
-                  src="images/gallery/gallery_1.jpg"
+                  src="images/btc_img_shoot/_DSC0189-min.jpg"
                   className="img-fluid"
                   alt="#"
                 />
@@ -30,10 +33,13 @@ export default function Gallery() {
             </a>
           </div>
           <div className="col-md-4">
-            <a href="images/gallery/large_2.jpg" className="grid image-link">
+            <a
+              href="images/btc_img_shoot/large_1.jpg"
+              className="grid image-link"
+            >
               <figure className="effect-bubba gallery-img-wrap">
                 <img
-                  src="images/gallery/gallery_2.jpg"
+                  src="images/btc_img_shoot/_DSC0198-min.jpg"
                   className="img-fluid"
                   alt="#"
                 />
@@ -49,10 +55,13 @@ export default function Gallery() {
             </a>
           </div>
           <div className="col-md-4">
-            <a href="images/gallery/large_3.jpg" className="grid image-link">
+            <a
+              href="images/btc_img_shoot/large_1.jpg"
+              className="grid image-link"
+            >
               <figure className="effect-bubba gallery-img-wrap">
                 <img
-                  src="images/gallery/gallery_3.jpg"
+                  src="images/btc_img_shoot/_DSC0213-min.jpg"
                   className="img-fluid"
                   alt="#"
                 />
@@ -68,12 +77,16 @@ export default function Gallery() {
             </a>
           </div>
         </div>
+
         <div className="row">
           <div className="col-md-4">
-            <a href="images/gallery/large_4.jpg" className="grid image-link">
+            <a
+              href="images/btc_img_shoot/large_4.jpg"
+              className="grid image-link"
+            >
               <figure className="effect-bubba gallery-img-wrap">
                 <img
-                  src="images/gallery/gallery_4.jpg"
+                  src="images/btc_img_shoot/DSC0724-min.jpg"
                   className="img-fluid"
                   alt="#"
                 />
@@ -89,10 +102,13 @@ export default function Gallery() {
             </a>
           </div>
           <div className="col-md-4">
-            <a href="images/gallery/large_5.jpg" className="grid image-link">
+            <a
+              href="images/btc_img_shoot/large_5.jpg"
+              className="grid image-link"
+            >
               <figure className="effect-bubba gallery-img-wrap">
                 <img
-                  src="images/gallery/gallery_5.jpg"
+                  src="images/btc_img_shoot/DSC0729-min.jpg"
                   className="img-fluid"
                   alt="#"
                 />
@@ -108,10 +124,13 @@ export default function Gallery() {
             </a>
           </div>
           <div className="col-md-4">
-            <a href="images/gallery/large_6.jpg" className="grid image-link">
+            <a
+              href="images/btc_img_shoot/large_6.jpg"
+              className="grid image-link"
+            >
               <figure className="effect-bubba gallery-img-wrap">
                 <img
-                  src="images/gallery/gallery_6.jpg"
+                  src="images/btc_img_shoot/_DSC0218-min.jpg"
                   className="img-fluid"
                   alt="#"
                 />
