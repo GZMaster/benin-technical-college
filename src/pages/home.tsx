@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 export default function Home() {
   return (
@@ -31,14 +31,14 @@ export default function Home() {
                       individuals to <br /> become skilled craftsmen ready to
                       meet the demands of the industry.
                     </h4>
-                    <div className="slider-btn">
+                    {/* <div className="slider-btn">
                       <a href="#" className="btn btn-default">
                         SEE Programs
                       </a>
                       <a href="#" className="btn btn-default">
                         Learn more
                       </a>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
@@ -56,14 +56,14 @@ export default function Home() {
                       technical know-how for <br /> higher academic and
                       technical pursuits in tertiary institutions.
                     </h4>
-                    <div className="slider-btn">
+                    {/* <div className="slider-btn">
                       <a href="#" className="btn btn-default">
                         SEE Programs
                       </a>
                       <a href="#" className="btn btn-default">
                         Learn more
                       </a>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
@@ -80,11 +80,11 @@ export default function Home() {
                       Creating opportunities for employed individuals to enhance
                       their technical skills and advance in their careers.
                     </h4>
-                    <div className="slider-btn">
+                    {/* <div className="slider-btn">
                       <a href="campus-life.html" className="btn btn-default">
                         Campus Life
                       </a>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
@@ -301,10 +301,11 @@ export default function Home() {
                     <h3>Inter House sports day</h3>
                     <span>06-Nov-17</span>
                     <p>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry.
+                      Our highly anticipated event, the Inter-house Sports day,
+                      is an exhilarating occasion filled with camaraderie and
+                      intense competition as our six houses vie for glory.
                     </p>
-                    <a href="#">Read More</a>
+                    {/* <a href="#">Read More</a> */}
                   </div>
                 </div>
                 <div className="row mt-4">
@@ -317,13 +318,15 @@ export default function Home() {
                     />
                   </div>
                   <div className="col-sm-9">
-                    <h3>Are Drugs Really Dangerous? </h3>
+                    <h3>
+                      End of year photo/ preparation of end of year yearbook
+                    </h3>
                     <span>14-Nov-17</span>
                     <p>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem has been...
+                      The end-of-year photo and yearbook serve as cherished
+                      mementos that capture the essence of our school community.
                     </p>
-                    <a href="#">Read More</a>
+                    {/* <a href="#">Read More</a> */}
                   </div>
                 </div>
                 <div className="row mt-4">
@@ -336,13 +339,14 @@ export default function Home() {
                     />
                   </div>
                   <div className="col-sm-9">
-                    <h3>Annual Day Celebrations</h3>
+                    <h3>Cultural Day</h3>
                     <span>25-Dec-17</span>
                     <p>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem Ipsum...
+                      Cultural Day at Benin Technical College is a vibrant and
+                      cherished celebration that showcases the diverse cultural
+                      heritage of Nigeria.
                     </p>
-                    <a href="#">Read More</a>
+                    {/* <a href="#">Read More</a> */}
                   </div>
                 </div>
               </div>
@@ -357,10 +361,11 @@ export default function Home() {
                     </div>
                   </div>
                   <div className="date-description">
-                    <h3>Eestibulum sodales metus.</h3>
+                    <h3>Social Impact Day</h3>
                     <p>
-                      When an unknown printer took a galley of type and
-                      scrambled it to make a type specimen book ...
+                      Social Impact Day is an annual event that brings together
+                      students, staff, and the wider community to make a
+                      positive difference.
                     </p>
                     <hr className="event_line" />
                   </div>
@@ -371,11 +376,11 @@ export default function Home() {
                     </div>
                   </div>
                   <div className="date-description">
-                    <h3>There are many variations</h3>
+                    <h3>Teacher’s Appreciation Day</h3>
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted by the readable content of a page when looking
-                      at its layout.
+                      Teacher’s Application Day is a special occasion dedicated
+                      to recognizing and appreciating the valuable contributions
+                      of teachers to the educational system in the state.
                     </p>
                     <hr className="event_line" />
                   </div>
@@ -386,10 +391,12 @@ export default function Home() {
                     </div>
                   </div>
                   <div className="date-description">
-                    <h3>Integer faucibus nulla a ligula.</h3>
+                    <h3>Professional Development Day</h3>
                     <p>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem Ipsum{" "}
+                      Professional Development Day is a designated day within a
+                      term where students do not attend school, allowing
+                      teachers to focus on their own growth and development as
+                      educators.
                     </p>
                   </div>
                 </div>
