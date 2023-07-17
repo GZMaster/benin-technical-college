@@ -744,9 +744,10 @@ a:hover {
   margin: 40px 0;
 }
 .detailed_chart {
-  background: url(../images/chart_bg.jpg) no-repeat;
+  background: url(../images/btc_img_shoot/DSC0720-min.jpg) no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
+
   padding: 97px 0;
 }
 .chart-img img {
@@ -2045,6 +2046,8 @@ select.form-control.custom-select {
 }
 .campus-img_block {
   position: relative;
+  height: 300px;
+  overflow: hidden;
 }
 .campus-img_block .campus-title-block {
   width: 100%;
