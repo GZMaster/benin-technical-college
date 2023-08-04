@@ -356,8 +356,8 @@ export default function Home() {
                 <div className="col-md-12">
                   <div className="event_date">
                     <div className="event-date-wrap">
-                      <p>06</p>
-                      <span>Nov.17</span>
+                      <p>13</p>
+                      <span>Jun.23</span>
                     </div>
                   </div>
                   <div className="date-description">
@@ -371,8 +371,8 @@ export default function Home() {
                   </div>
                   <div className="event_date">
                     <div className="event-date-wrap">
-                      <p>06</p>
-                      <span>Nov.17</span>
+                      <p>28</p>
+                      <span>Jun.23</span>
                     </div>
                   </div>
                   <div className="date-description">
@@ -386,8 +386,8 @@ export default function Home() {
                   </div>
                   <div className="event_date">
                     <div className="event-date-wrap">
-                      <p>10</p>
-                      <span>Nov.17</span>
+                      <p>23</p>
+                      <span>Jun.23</span>
                     </div>
                   </div>
                   <div className="date-description">
